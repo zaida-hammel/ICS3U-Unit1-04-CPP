@@ -11,7 +11,7 @@ int main() {
     std::cout << "A rectangle has the dimensions: " << std::endl;
     std::cout << "4cm x 3cm" << std::endl;
     std::cout << std::endl;
-    std::cout << "Area is " << (4 * 3) << "cm²." << std::endl;
+    std::cout << "The area is " << (4 * 3) << "cm²." << std::endl;
     std::cout << "Perimeter is " << (2 * (4 + 3)) << "cm." << std::endl;
     std::cout << std::endl;
     std::cout << "Done." << std::endl;
